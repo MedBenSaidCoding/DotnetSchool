@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEOnb2Z/qfVTB0odJ3curGwGGH2HVAkz+wO2CBXd8lpq0xaWFCXlMy3Q9ev3pzFi9acbODHUS5OTuAoD2sqohw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohammed.bensaid\\RiderProjects\\DotnetSchool\\DataStruct\\DataStruct.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfsdropserver:8082/repository/nugetgroupcdiscount/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfsdropserver:8082/repository/NuGet-NetCore-Official/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfsdropserver.cdbdx.biz:8082/repository/NuGet-Net-Foundation'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
